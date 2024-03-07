@@ -1,0 +1,241 @@
+.products {
+  background-color: black;
+}
+.body1 {
+  padding-top: 25px;
+  color: aquamarine;
+  display: flex;
+  /* background-color: black; */
+  background-repeat: no-repeat;
+  background-position-x: left;
+  background-position-y: bottom;
+  animation: moveToRight 6s ease-in-out;
+  animation-delay: 1000ms;
+
+  background-image: url(../AirImages/backback.jpg_large);
+  background-size: cover;
+ 
+}
+
+.side {
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  width: 280px;
+  color: rgb(116, 6, 150);
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+.flight {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transform: skewY(20deg);
+}
+.flight:hover {
+  opacity: 0.5;
+  cursor: grab;
+  color: yellowgreen;
+  transform: scale(1.1);
+}
+.fhot {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transform: skewY(20deg);
+}
+.fhot:hover {
+  opacity: 0.5;
+  cursor: grab;
+  color: yellowgreen;
+  transform: scale(1.1);
+}
+.hotel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transform: skewY(20deg);
+}
+.hotel:hover {
+  opacity: 0.5;
+  cursor: grab;
+  color: yellowgreen;
+  transform: scale(1.1);
+}
+.car {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transform: skewY(20deg);
+}
+.car:hover {
+  opacity: 0.5;
+  cursor: grab;
+  color: yellowgreen;
+  transform: scale(1.1);
+}
+.fullp {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transform: skewY(20deg);
+}
+.fullp:hover {
+  opacity: 0.5;
+  cursor: grab;
+  color: yellowgreen;
+  transform: scale(1.1);
+}
+.body2 {
+  width: 1400px;
+  padding-top: 20px;
+  /* background-color: brown; */
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.plan {
+  /* background-color: blue; */
+  display: flex;
+  justify-content: space-around;
+}
+.firstClass {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.firstClass:hover {
+  opacity: 0.5;
+  cursor: grab;
+  color: yellowgreen;
+  transform: scale(1.1);
+}
+.economy {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.economy:hover {
+  opacity: 0.5;
+  cursor: grab;
+  color: yellowgreen;
+  transform: scale(1.1);
+}
+.bussines {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.bussines:hover {
+  opacity: 0.5;
+  cursor: grab;
+  color: yellowgreen;
+  transform: scale(1.1);
+}
+.freight {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.freight:hover {
+  opacity: 0.5;
+  cursor: grab;
+  color: yellowgreen;
+  transform: scale(1.1);
+}
+.flighot {
+  display: flex;
+  justify-content: space-around;
+}
+.firsui {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.firsui:hover {
+  opacity: 0.5;
+  cursor: grab;
+  color: yellowgreen;
+  transform: scale(1.1);
+}
+.ecodel {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.ecodel:hover {
+  opacity: 0.5;
+  cursor: grab;
+  color: yellowgreen;
+  transform: scale(1.1);
+}
+.bussd {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.bussd:hover {
+  opacity: 0.5;
+  cursor: grab;
+  color: yellowgreen;
+  transform: scale(1.1);
+}
+.fsin {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.fsin:hover {
+  opacity: 0.5;
+  cursor: grab;
+  color: yellowgreen;
+  transform: scale(1.1);
+}
+.hotelRooms {
+  display: flex;
+  justify-content: space-around;
+}
+.pentHouse {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.pentHouse:hover {
+  opacity: 0.5;
+  cursor: grab;
+  color: yellowgreen;
+  transform: scale(1.1);
+}
+.deluxeRoom {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.deluxeRoom:hover {
+  opacity: 0.5;
+  cursor: grab;
+  color: yellowgreen;
+  transform: scale(1.1);
+}
+.doubleComf {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.doubleComf:hover {
+  opacity: 0.5;
+  cursor: grab;
+  color: yellowgreen;
+  transform: scale(1.1);
+}
+.shortStay {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.shortStay:hover {
+  opacity: 0.5;
+  cursor: grab;
+  color: yellowgreen;
+  transform: scale(1.1);
+}
